@@ -1,5 +1,8 @@
+### CODACY([![Codacy Badge](https://app.codacy.com/project/badge/Grade/acbb41537fc744c58947b0df00ee9c31)](https://www.codacy.com/gh/suriyapalanisamy/M2_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=suriyapalanisamy/M2_Project&amp;utm_campaign=Badge_Grade))]
+
+
 ### Embedded c programming - Seat Heating Application
-## Activity 1-In Action
+## Activity[![Codacy Badge](https://app.codacy.com/project/badge/Grade/acbb41537fc744c58947b0df00ee9c31)](https://www.codacy.com/gh/suriyapalanisamy/M2_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=suriyapalanisamy/M2_Project&amp;utm_campaign=Badge_Grade) 1-In Action
 ![alt text](https://github.com/suriyapalanisamy/M2_Project/blob/main/6_0utput/on.png)
 ![alt text](https://github.com/suriyapalanisamy/M2_Project/blob/main/6_0utput/off.png)
 ![alt text](https://github.com/suriyapalanisamy/M2_Project/blob/main/6_0utput/off1.png)
