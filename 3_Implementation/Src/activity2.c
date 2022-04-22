@@ -1,6 +1,6 @@
 /**
  * @file activity2.c
- * @author suriyaaP (18euee143@skcet.ac.in)
+ * @author suriyaP (18euee143@skcet.ac.in)
  * @brief Functions to get the ADC values 
  * @version 0.1
  * @date 2021-04-27
